@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fatihpb/](https://www.linkedin.com/in/fatihpb/)
 
-- ⚡ Fun fact **Fitness**
+- 🌅 I like to watch the sunset
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
