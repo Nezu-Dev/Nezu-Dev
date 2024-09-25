@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">I am a software student in Turkey</h3>
+<h3 align="center">I am a software student</h3>
 
 - 🌱 I’m currently learning **Python, Cybersecurity, Frontend Development, C#, Flutter, MySQL**
 
