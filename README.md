@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fatihpb/](https://www.linkedin.com/in/fatihpb/)
 
-- 🌅 I like to watch the sunset
+- 🌅 When I'm sad, I like to watch the sunset.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
